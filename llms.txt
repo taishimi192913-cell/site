@@ -1,0 +1,24 @@
+# MeetJapan
+
+MeetJapan is a calm, practical guide for foreign travelers visiting Japan.
+
+## Core article URLs
+- https://meetjapan.example/articles/mobile-suica.html
+- https://meetjapan.example/articles/tax-free-shopping.html
+- https://meetjapan.example/articles/atm-guide.html
+- https://meetjapan.example/articles/luggage-forwarding.html
+- https://meetjapan.example/articles/tattoo-onsen.html
+- https://meetjapan.example/articles/express-train.html
+- https://meetjapan.example/articles/donki-guide.html
+
+## Topic summary
+- transport
+- money
+- shopping
+- onsen
+- arrival comfort
+
+## Editorial style
+- short answers first
+- practical for first-time travelers
+- low-stress reading on mobile

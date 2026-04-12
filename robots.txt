@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace the example domain below with the real production domain before public launch.
+Sitemap: https://meetjapan.example/sitemap.xml

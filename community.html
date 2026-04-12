@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MeetJapan Community | Questions, Answers, and Local Tips</title>
+  <meta name="description" content="MeetJapan Community is a practical Q&A space where travelers share questions or impressions and locals or residents answer with useful Japan travel tips.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./assets/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="topbar">
+      <div class="brand-lockup">
+        <div class="brand-kicker">MeetJapan</div>
+        <a class="brand-wordmark" href="./index.html">Community answers for questions that feel too small to ask until you are already in Japan.</a>
+      </div>
+      <div class="topbar-actions">
+        <nav class="main-nav" aria-label="Primary">
+          <a href="./index.html">Home</a>
+          <a href="#answered">MeetJapan Answered</a>
+          <a href="#all-posts">All posts</a>
+        </nav>
+        <button class="view-toggle" type="button" data-view-toggle aria-pressed="false">Phone View</button>
+      </div>
+    </div>
+
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">MeetJapan Community</p>
+        <h1>Traveler questions, local answers, and useful Japan tips that stay searchable later.</h1>
+        <p class="hero-text">
+          This is the community side of MeetJapan. Travelers can post a question or impression, locals and residents can answer,
+          and the best responses can be saved as <strong>MeetJapan Answered</strong> so future travelers can find them quickly.
+        </p>
+        <div class="hero-actions">
+          <a class="button primary" href="#ask">Ask a question</a>
+          <a class="button secondary" href="#answered">Browse answered posts</a>
+        </div>
+      </div>
+      <aside class="hero-panel">
+        <div class="stat-card">
+          <span class="stat-label">Best for</span>
+          <strong>Small but important Japan questions that do not always fit into a regular article.</strong>
+        </div>
+        <div class="stat-card">
+          <span class="stat-label">Main categories</span>
+          <strong>Transport, Money, Shopping, Onsen, and Etiquette.</strong>
+        </div>
+        <div class="stat-card">
+          <span class="stat-label">MeetJapan promise</span>
+          <strong>Useful, respectful answers that can still help the next traveler.</strong>
+        </div>
+      </aside>
+    </section>
+  </header>
+
+  <main class="community-shell" data-community-app>
+    <div class="community-layout">
+      <aside class="community-sidebar">
+        <section class="community-card" id="ask">
+          <p class="eyebrow">Ask MeetJapan</p>
+          <h3>Post a question or share something that confused you during your trip</h3>
+          <form class="community-form" data-post-form>
+            <select class="community-select" name="type" required>
+              <option value="question">Question</option>
+              <option value="impression">Impression</option>
+            </select>
+            <select class="community-select" name="category" required>
+              <option value="Transport">Transport</option>
+              <option value="Money">Money</option>
+              <option value="Shopping">Shopping</option>
+              <option value="Onsen">Onsen</option>
+              <option value="Etiquette">Etiquette</option>
+            </select>
+            <input class="community-input" name="author" type="text" placeholder="Your name or short label" required>
+            <input class="community-input" name="title" type="text" placeholder="Short title for your question" required>
+            <textarea class="community-textarea" name="body" placeholder="What happened, or what do you want to know?" required></textarea>
+            <button class="button primary" type="submit">Post to MeetJapan Community</button>
+          </form>
+        </section>
+
+        <section class="community-card">
+          <p class="eyebrow">Search</p>
+          <h3>Search previous questions</h3>
+          <input class="community-search" data-search-input type="text" placeholder="Try: suica, trash, tattoo, ATM">
+          <div class="community-filter" data-filter-wrap></div>
+        </section>
+
+        <section class="community-card">
+          <p class="eyebrow">How it works</p>
+          <ul class="check-list">
+            <li>Travelers post questions or impressions.</li>
+            <li>Locals and residents answer with practical context.</li>
+            <li>The most useful replies can be marked as MeetJapan Answered.</li>
+            <li>Future travelers can search and reuse that knowledge.</li>
+          </ul>
+        </section>
+      </aside>
+
+      <div class="community-main">
+        <section class="community-card" id="answered">
+          <p class="eyebrow">MeetJapan Answered</p>
+          <h3>Curated answers worth reusing</h3>
+          <div class="community-list" data-answered-list></div>
+        </section>
+
+        <section class="community-card" id="all-posts">
+          <p class="eyebrow">All Posts</p>
+          <h3>Traveler questions and impressions</h3>
+          <div class="community-list" data-post-list></div>
+        </section>
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-head">
+      <div>
+        <p class="eyebrow">MeetJapan Community</p>
+        <h2>Use community posts for nuance, and core articles for the calm explanation</h2>
+      </div>
+      <p>The strongest version of MeetJapan combines searchable articles with small, lived-in local answers that make Japan easier to understand.</p>
+    </div>
+    <div class="social-strip">
+      <a class="social-card" href="./articles/mobile-suica.html"><strong>Transport guide</strong><span>Return to the core articles when you need a cleaner, article-style explanation.</span></a>
+      <a class="social-card" href="./index.html"><strong>MeetJapan home</strong><span>Go back to the main site and browse guides by topic.</span></a>
+      <a class="social-card" href="./articles/tattoo-onsen.html"><strong>Onsen guide</strong><span>Jump from community nuance into a more structured travel explanation.</span></a>
+    </div>
+  </footer>
+  <script src="./assets/view-mode.js"></script>
+  <script src="./assets/community.js"></script>
+  <script src="./assets/meetjapan-bot.js"></script>
+</body>
+</html>

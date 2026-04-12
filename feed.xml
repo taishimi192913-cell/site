@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>MeetJapan</title>
+    <link>https://meetjapan.example/</link>
+    <description>Calm, useful Japan travel guides for foreign visitors.</description>
+    <language>en</language>
+    <item>
+      <title>Mobile Suica Setup</title>
+      <link>https://meetjapan.example/articles/mobile-suica.html</link>
+      <description>A low-stress guide to using Mobile Suica in Japan.</description>
+    </item>
+    <item>
+      <title>Tax-Free Shopping Rules</title>
+      <link>https://meetjapan.example/articles/tax-free-shopping.html</link>
+      <description>What foreign travelers need to know before shopping tax-free in Japan.</description>
+    </item>
+    <item>
+      <title>ATM Guide For Foreign Cards</title>
+      <link>https://meetjapan.example/articles/atm-guide.html</link>
+      <description>Where to start when you need cash in Japan.</description>
+    </item>
+    <item>
+      <title>Luggage Forwarding In Japan</title>
+      <link>https://meetjapan.example/articles/luggage-forwarding.html</link>
+      <description>Why luggage forwarding can make arrival days much easier.</description>
+    </item>
+    <item>
+      <title>Tattoo-Friendly Onsen Basics</title>
+      <link>https://meetjapan.example/articles/tattoo-onsen.html</link>
+      <description>A respectful guide to reducing anxiety around tattoo-friendly onsen.</description>
+    </item>
+    <item>
+      <title>Local vs Express Train Mistakes</title>
+      <link>https://meetjapan.example/articles/express-train.html</link>
+      <description>How to avoid the most common beginner train mistake in Japan.</description>
+    </item>
+    <item>
+      <title>Don Quijote Survival Guide</title>
+      <link>https://meetjapan.example/articles/donki-guide.html</link>
+      <description>How to enjoy Donki without getting overwhelmed.</description>
+    </item>
+  </channel>
+</rss>
