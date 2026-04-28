@@ -3,13 +3,13 @@
 MeetJapan is a calm, practical guide for foreign travelers visiting Japan.
 
 ## Core article URLs
-- https://meetjapan.example/articles/mobile-suica.html
-- https://meetjapan.example/articles/tax-free-shopping.html
-- https://meetjapan.example/articles/atm-guide.html
-- https://meetjapan.example/articles/luggage-forwarding.html
-- https://meetjapan.example/articles/tattoo-onsen.html
-- https://meetjapan.example/articles/express-train.html
-- https://meetjapan.example/articles/donki-guide.html
+- https://site-xi-six-26.vercel.app/articles/mobile-suica
+- https://site-xi-six-26.vercel.app/articles/tax-free-shopping
+- https://site-xi-six-26.vercel.app/articles/atm-guide
+- https://site-xi-six-26.vercel.app/articles/luggage-forwarding
+- https://site-xi-six-26.vercel.app/articles/tattoo-onsen
+- https://site-xi-six-26.vercel.app/articles/express-train
+- https://site-xi-six-26.vercel.app/articles/donki-guide
 
 ## Topic summary
 - transport
