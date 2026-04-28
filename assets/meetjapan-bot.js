@@ -89,10 +89,14 @@
     const input = panel.querySelector("#mj-bot-input");
     const closeButton = panel.querySelector("#mj-bot-close");
 
-    function addMessage(type, html) {
+    function addMessage(type, content, options = {}) {
       const el = document.createElement("div");
       el.className = `mj-bot-msg ${type}`;
-      el.innerHTML = html;
+      if (options.trustedHtml) {
+        el.innerHTML = content;
+      } else {
+        el.textContent = content;
+      }
       log.appendChild(el);
       log.scrollTop = log.scrollHeight;
     }
@@ -108,7 +112,8 @@
             <button class="mj-bot-chip" data-question="Can I go to onsen with tattoos?">Onsen</button>
             <button class="mj-bot-chip" data-question="What does express train mean?">Train</button>
           </div>
-        `
+        `,
+        { trustedHtml: true }
       );
     }
 
@@ -137,7 +142,8 @@
       }
       addMessage(
         "bot",
-        `${match.answer}<br><br><a href="${match.href}">Open the ${match.title} article</a>`
+        `${match.answer}<br><br><a href="${match.href}">Open the ${match.title} article</a>`,
+        { trustedHtml: true }
       );
     }
 
