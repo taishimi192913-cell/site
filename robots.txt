@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://site-xi-six-26.vercel.app/sitemap.xml
+Sitemap: https://meetjapan.pages.dev/sitemap.xml

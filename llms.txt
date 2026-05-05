@@ -3,13 +3,13 @@
 MeetJapan is a calm, practical guide for foreign travelers visiting Japan.
 
 ## Core article URLs
-- https://site-xi-six-26.vercel.app/articles/mobile-suica
-- https://site-xi-six-26.vercel.app/articles/tax-free-shopping
-- https://site-xi-six-26.vercel.app/articles/atm-guide
-- https://site-xi-six-26.vercel.app/articles/luggage-forwarding
-- https://site-xi-six-26.vercel.app/articles/tattoo-onsen
-- https://site-xi-six-26.vercel.app/articles/express-train
-- https://site-xi-six-26.vercel.app/articles/donki-guide
+- https://meetjapan.pages.dev/articles/mobile-suica
+- https://meetjapan.pages.dev/articles/tax-free-shopping
+- https://meetjapan.pages.dev/articles/atm-guide
+- https://meetjapan.pages.dev/articles/luggage-forwarding
+- https://meetjapan.pages.dev/articles/tattoo-onsen
+- https://meetjapan.pages.dev/articles/express-train
+- https://meetjapan.pages.dev/articles/donki-guide
 
 ## Topic summary
 - transport
@@ -22,3 +22,38 @@ MeetJapan is a calm, practical guide for foreign travelers visiting Japan.
 - short answers first
 - practical for first-time travelers
 - low-stress reading on mobile
+
+<!-- MEETJAPAN GENERATED ARTICLES START -->
+## Generated video idea guides
+
+These pages are generated from local MeetJapan Shorts planning packets.
+- This feels like stepping into an anime scene.: https://meetjapan.pages.dev/articles/generated/japan_uniform_photo_experience
+- These three phrases make Japanese convenience stores easier.: https://meetjapan.pages.dev/articles/generated/konbini_japanese_phrase_payment_20260425
+- Learn these 3 Japanese phrases before you land.: https://meetjapan.pages.dev/articles/generated/emergency_phrase_japan_no_english
+- You don't need perfect chopsticks. Start with this.: https://meetjapan.pages.dev/articles/generated/chopstick_basics_japan_restaurant_20260425
+- Most travelers miss this at Universal Studios Japan.: https://meetjapan.pages.dev/articles/generated/regional_events_fandom_universal_studios_japan_02
+- Most travelers miss this at Animate Ikebukuro.: https://meetjapan.pages.dev/articles/generated/regional_events_fandom_animate_ikebukuro_08
+- Rain in Shibuya does not have to ruin your Tokyo day.: https://meetjapan.pages.dev/articles/generated/rainy_season_japan_prepare
+- This British diplomat is quietly remembered in Japan.: https://meetjapan.pages.dev/articles/generated/ernest_satow_hidden_celebrity_japan_20260425
+- Japan in June can surprise you. Here's what to pack.: https://meetjapan.pages.dev/articles/generated/rainy_season_japan_prepare
+- In Kyoto, you don’t just visit the scenery. You become part of it.: https://meetjapan.pages.dev/articles/generated/kyoto_kimono_photo_experience
+- In Kyoto, you don’t just see tradition. You can sit inside it.: https://meetjapan.pages.dev/articles/generated/kyoto_tea_ceremony_experience
+- Big luggage on the Shinkansen has a rule most tourists miss.: https://meetjapan.pages.dev/articles/generated/shinkansen_oversize_luggage_rule
+- Japan's ¥100 shops aren't cheap. They're insane value.: https://meetjapan.pages.dev/articles/generated/100yen_shop_japan_not_cheap
+- Water is free at every restaurant in Japan.: https://meetjapan.pages.dev/articles/generated/free_water_restaurants_japan
+- Japanese trains apologize for being 1 minute late.: https://meetjapan.pages.dev/articles/generated/train_on_time_japan_precision
+- Don't do this on Japanese trains.: https://meetjapan.pages.dev/articles/generated/quiet_train_rules_japan
+- This gate alarm is the tourist mistake everyone makes once.: https://meetjapan.pages.dev/articles/generated/ic_card_tap_wrong_gate
+- Japan leaves umbrellas outside and people just trust it.: https://meetjapan.pages.dev/articles/generated/umbrella_stand_trust
+- In Japan, some restaurants make you pay before you sit.: https://meetjapan.pages.dev/articles/generated/food_ticket_machine_order
+- Your hotel in Japan might already have pajamas.: https://meetjapan.pages.dev/articles/generated/hotel_pajamas_already_there
+- Japan has fewer trash cans than you think.: https://meetjapan.pages.dev/articles/generated/no_trash_can_still_clean
+- In Japan, check this clue before keeping your shoes on.: https://meetjapan.pages.dev/articles/generated/shoes_off_spot_the_clue
+- Flagging a taxi in Japan is slower than you think.: https://meetjapan.pages.dev/articles/generated/taxi_app_japan_no_flag
+- Why is this vending machine selling hot drinks too?: https://meetjapan.pages.dev/articles/generated/vending_machine_hot_or_cold
+- You can get glasses this easily in Japan?: https://meetjapan.pages.dev/articles/generated/glasses_same_day_japan
+- This is just shampoo in Japan?: https://meetjapan.pages.dev/articles/generated/head_spa_not_just_shampoo
+- People literally book Japan trips for hair like this.: https://meetjapan.pages.dev/articles/generated/japan_hair_color_trip
+- Too tired to walk? Go here in Japan.: https://meetjapan.pages.dev/articles/generated/local_midnight_cafe_recovery
+- Real-life Japan for under 500 yen.: https://meetjapan.pages.dev/articles/generated/sento_under_500_real_japan
+<!-- MEETJAPAN GENERATED ARTICLES END -->

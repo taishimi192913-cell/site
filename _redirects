@@ -1,0 +1,3 @@
+# Cloudflare Pages redirects
+# Clean URLs: remove .html extension
+/articles/*.html /articles/:splat 301
